@@ -1,3 +1,3 @@
-msfadmin
-msfadmin
-wget http://www.google.com
+msfadmin # enter login
+msfadmin # etner password
+wget http://www.google.com # request
