@@ -1,7 +1,8 @@
 ---
 title: cyber-security introduction
 last-update: 05.01.25
-description: 
+description: a repository for storing & using methods and tools of hackers and cybersecurity specialists
+tags: attks, cyber-securiry, ethical hacking
 info: in development
 ---
 
