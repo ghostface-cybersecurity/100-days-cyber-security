@@ -21,5 +21,5 @@ description: all about arp spoofing
 * ![kali tab-4](https://github.com/hellcard/cyber-security-introduction/blob/main/arp-spoofing-attck/kali/tab-4.sh) - extracting url | (later) viewing the list of sites that the victim is viewing
 * ![metasploitable](https://github.com/hellcard/cyber-security-introduction/blob/main/arp-spoofing-attck/metasploitable/commands.sh) - login and request
 * ![kali tab-4](https://github.com/hellcard/cyber-security-introduction/blob/main/arp-spoofing-attck/kali/tab-4.sh) - viewing url requests
-* ![kali tab 2 & 3] - write additionally Ctrl+C | To stop spoofing and so that the victim does not notice the attack due to the fact that he has disconnected from the network
-* ![kali tab 1 & 4] - write additionally Ctrl+C | To stop viewing the IP and no longer receive requests
+* [kali tab 2 & 3] - write additionally Ctrl+C | To stop spoofing and so that the victim does not notice the attack due to the fact that he has disconnected from the network
+* [kali tab 1 & 4] - write additionally Ctrl+C | To stop viewing the IP and no longer receive requests
