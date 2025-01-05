@@ -6,3 +6,4 @@
 
 3. kali linux VM | adapter 1 - internal network
 
+### !!! For correct operation you need to start all 3 virtual machines !!!
