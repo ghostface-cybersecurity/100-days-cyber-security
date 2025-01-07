@@ -32,7 +32,7 @@
 
 ----
 
-<h3 align="center">we can also view the content of web pages by recovering data from the packet stream.</h3>
+<h3 align="center">we can also view the content of web pages by recovering data from the packet stream</h3>
 
 ![image](https://github.com/user-attachments/assets/9a995a08-d6de-4183-a2b4-22325a866a37)
 
