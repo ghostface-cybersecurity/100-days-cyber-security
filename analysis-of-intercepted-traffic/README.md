@@ -39,6 +39,9 @@ _________
 <h4 align="center">Intercepting traffic on port 80 using the pfSense router</h4>
 <p align="center">All traffic in our virtual lab goes through the pfSense firewall as we have configured it with the following settings. this means that we can capture packets from the Kali Linux virtual machine using tcpdump commands.</p>
 
+
+// in this case you don't have to use the metasploitable machine
+
 * ![pfSense]() - pfSense commands
 * [ kali ] - start the Kali Linux virtual machine and open the browser and create traffic by visiting sites
 * [ pfSense ] - view traffic
