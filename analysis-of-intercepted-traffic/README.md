@@ -19,4 +19,7 @@ _________
 
 * ![kali tab-1](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/kali/tab-1.sh) - install & open wireshark
 * ![some commands from metasploitable2](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/metasploitable/commands.sh) - login and read IP
-* 
+* go to the browser, follow the link http://192.168.1.101/ | <192.168.1.101> - virtual machine IP metasploitable
+* ![wireshark](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/wireshark/filter-%26-operations.md) - work with wireshark
+
+
