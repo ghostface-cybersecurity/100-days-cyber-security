@@ -15,6 +15,8 @@ _________
 
 <h3 align="center">sequence of actions to perform analysis of intercepted traffic</h3>
 
+----
+
 <h4 align="center">Without arp-spoofing (we will create the traffic ourselves) with wireshark</h4>
 
 * ![kali tab-1](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/kali/tab-1.sh) - install & open wireshark
@@ -22,4 +24,9 @@ _________
 * go to the browser, follow the link http://192.168.1.101/ | <192.168.1.101> - virtual machine IP metasploitable
 * ![wireshark](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/wireshark/filter-%26-operations.md) - work with wireshark
 
+----
 
+<h4 align="center">With arp-spoofing & wireshark</h4>
+
+* ![arp-spoofing attk](https://github.com/hellcard/100-days-cyber-security/tree/main/arp-spoofing-attck) - we begin to carry out arp-spoofing
+* 
