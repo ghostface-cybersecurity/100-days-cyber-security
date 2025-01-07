@@ -15,6 +15,8 @@ _________
 
 <h3 align="center">sequence of actions to perform analysis of intercepted traffic</h3>
 
-<h4 align="center">Without arp-spoofing (we will create the traffic ourselves)</h4>
+<h4 align="center">Without arp-spoofing (we will create the traffic ourselves) with wireshark</h4>
 
+* ![kali tab-1](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/kali/tab-1.sh) - install & open wireshark
+* ![some commands from metasploitable2](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/metasploitable/commands.sh) - login and read IP
 * 
