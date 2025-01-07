@@ -13,7 +13,7 @@ description: use wireshark & tcpdump with arp-spoofing
 
 _________
 
-<h3 align="center">sequence of actions to perform analysis of intercepted traffic</h3>
+<h3 align="center">Sequence of actions to perform analysis of intercepted traffic</h3>
 
 ----
 
@@ -35,3 +35,11 @@ _________
 * ![wireshark](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/wireshark/filter-%26-operations.md) - filter the receiver and source with the filter command: | ip.dst == 192.168.1.101 || ip.src == 192.168.1.101 | & view the content of web pages by recovering data from the packet stream
 
 ----
+
+<h4 align="center">Intercepting traffic on port 80 using the pfSense router</h4>
+<p align="center">All traffic in our virtual lab goes through the pfSense firewall as we have configured it with the following settings. this means that we can capture packets from the Kali Linux virtual machine using tcpdump commands.</p>
+
+* ![pfSense]() - pfSense commands
+* [ kali ] - start the Kali Linux virtual machine and open the browser and create traffic by visiting sites
+* [ pfSense ] - view traffic
+* ![pfSense]() - view additional tcpdump commands 
