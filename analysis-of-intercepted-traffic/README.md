@@ -42,8 +42,8 @@ _________
 
 // in this case you don't have to use the metasploitable machine
 
-* ![pfSense]() - pfSense commands
+* ![pfSense](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/pfsense/commands.sh) - pfSense commands
 * ![tcpdump](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/pfsense/tcpdump.md) - results tcpdump command
 * [ kali ] - start the Kali Linux virtual machine and open the browser and create traffic by visiting sites
 * [ pfSense ] - view traffic
-* ![pfSense]() - view additional tcpdump commands 
+* ![pfSense](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/pfsense/commands.sh) - view additional tcpdump commands 
