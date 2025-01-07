@@ -1,1 +1,2 @@
-Additionally, you can go to the pfSense router website by entering its IP address into the browser. This way you can view statistics on packets passing through the pfSense firewall
+Additionally, you can go to the pfSense router website by entering its IP address into the browser
+This way you can view statistics on packets passing through the pfSense firewall
