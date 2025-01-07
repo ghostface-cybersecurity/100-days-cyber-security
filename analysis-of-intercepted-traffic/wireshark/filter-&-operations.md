@@ -3,7 +3,7 @@
 
 // since I use a virtual laboratory, all my machines are connected via the eth0 interface
 
-// to work and analyze just click on the fin icon (before that, go to the browser on the Kali virtual machine and enter the address: http://192.168.1.101/)
+// to work and analyze just click on the fin icon (before that, go to the browser on the Kali virtual machine and enter the address: http://192.168.1.101/ || if you are performing ARP-spoofing, there is no such need)
 
 ----
 
