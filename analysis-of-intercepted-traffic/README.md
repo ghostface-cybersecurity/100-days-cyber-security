@@ -28,5 +28,7 @@ _________
 
 <h4 align="center">With arp-spoofing & wireshark</h4>
 
-* ![arp-spoofing attk](https://github.com/hellcard/100-days-cyber-security/tree/main/arp-spoofing-attck) - we begin to carry out arp-spoofing
+* ![arp-spoofing attk](https://github.com/hellcard/100-days-cyber-security/tree/main/arp-spoofing-attck) - we begin to carry out arp-spoofing 
+* sudo urlsnarf -i eth0 -  listening on eth0 [tcp port 80 or port 8080 or port 3128]
+* ![wireshark](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/wireshark/filter-%26-operations.md) - open wireshark & work with him
 * 
