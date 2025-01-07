@@ -1,6 +1,6 @@
 ---
 title: analysis of intercepted traffic
-date: 06.01.2025
+date: 07.01.2025
 description: use wireshark & tcpdump with arp-spoofing
 ---
 
