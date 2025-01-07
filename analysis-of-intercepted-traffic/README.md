@@ -29,7 +29,7 @@ _________
 <h4 align="center">With arp-spoofing & wireshark</h4>
 
 * ![arp-spoofing attk](https://github.com/hellcard/100-days-cyber-security/tree/main/arp-spoofing-attck) - we begin to carry out arp-spoofing 
-* sudo urlsnarf -i eth0 -  listening on eth0 [tcp port 80 or port 8080 or port 3128]
+* | $ sudo urlsnarf -i eth0 | -  listening on eth0 [tcp port 80 or port 8080 or port 3128]
 * ![wireshark](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/wireshark/filter-%26-operations.md) - open & start with wireshark
 * ![some commands metasploitable](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/metasploitable/arpcommands.sh) - login & wget
 * ![wireshark](https://github.com/hellcard/100-days-cyber-security/blob/main/analysis-of-intercepted-traffic/wireshark/filter-%26-operations.md) - filter the receiver and source with the filter command: | ip.dst == 192.168.1.101 || ip.src == 192.168.1.101 | & view the content of web pages by recovering data from the packet stream
