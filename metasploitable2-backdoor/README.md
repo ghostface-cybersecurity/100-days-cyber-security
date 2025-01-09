@@ -22,4 +22,4 @@ description: gaining access to the victim's computer
 <p align="center">you just need to authenticate on the FTP server by entering a username ending in :) and any password</p>
 
 * ![kali tab-1](https://github.com/hellcard/100-days-cyber-security/blob/main/metasploitable2-backdoor/kali/tab-1.sh) - connecting to an FTP server, opening TCP sockets to communicate with the server
-* ![kali tab-2]() - gaining access to the system
+* ![kali tab-2](https://github.com/hellcard/100-days-cyber-security/blob/main/metasploitable2-backdoor/kali/tab-2.sh) - gaining access to the system
