@@ -23,3 +23,5 @@ description: gaining access to the victim's computer
 * download/create ![reverse-shell-script](https://github.com/hellcard/reverse_shell)
 * ![kali](https://github.com/hellcard/100-days-cyber-security/tree/main/TCP-shells-and-botnets/kali) - launch reverse shell
 * ![kali tab-1](https://github.com/hellcard/100-days-cyber-security/blob/main/TCP-shells-and-botnets/kali/tab-1.sh) - after launch you will be able to execute commands
+
+----
