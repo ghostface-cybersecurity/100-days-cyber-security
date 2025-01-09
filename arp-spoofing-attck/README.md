@@ -13,6 +13,9 @@ description: all about arp spoofing
 3. kali linux VM | adapter 1 - internal network
 
 ### !!! For correct operation you need to start all 3 virtual machines !!!
+
+----
+
 <h3 align="center">order of execution attck</h3>
 
 * ![kali tab-1](https://github.com/hellcard/cyber-security-introduction/blob/main/arp-spoofing-attck/kali/tab-1.sh) - look and look for the victim’s IP and router
@@ -24,6 +27,7 @@ description: all about arp spoofing
 * [kali tab 2 & 3] - write additionally Ctrl+C | To stop spoofing and so that the victim does not notice the attack due to the fact that he has disconnected from the network
 * [kali tab 1 & 4] - write additionally Ctrl+C | To stop viewing the IP and no longer receive requests
 
+----
 
 ### More about arp-spoofing
 * ![ArpSpoofingDetector](https://github.com/hellcard/arp-spoof-detector) - a script for detecting signs of ARP spoofing attck 
