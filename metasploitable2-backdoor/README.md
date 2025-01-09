@@ -17,7 +17,7 @@ description: gaining access to the victim's computer
 
 ----
 
-<h3 align="center">attack order and how it works</h3>
+<h3 align="center">Attack order and how it works</h3>
 
 <p align="center">you just need to authenticate on the FTP server by entering a username ending in :) and any password</p>
 
