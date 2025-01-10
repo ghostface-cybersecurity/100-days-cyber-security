@@ -29,3 +29,4 @@ description: gaining access to the victim's computer
 <h3 align="center">Extra</h3>
 
 * ![simple botnet](https://github.com/hellcard/simple-botnet/tree/main) - this botnet implements a DDoS attck when this script is executed on several devices
+* ![multi-client bot server](https://github.com/hellcard/multi-client-bot-server/tree/main) - multi-client bot server with reverse shell 
