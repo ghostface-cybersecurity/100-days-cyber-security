@@ -25,3 +25,7 @@ description: gaining access to the victim's computer
 * ![kali tab-1](https://github.com/hellcard/100-days-cyber-security/blob/main/TCP-shells-and-botnets/kali/tab-1.sh) - after launch you will be able to execute commands
 
 ----
+
+<h3 align="center">Extra</h3>
+
+* ![simple botnet](https://github.com/hellcard/simple-botnet/tree/main) - this botnet implements a DDoS attck when this script is executed on several devices
