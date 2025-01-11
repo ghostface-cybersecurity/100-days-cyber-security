@@ -1,6 +1,6 @@
 ---
 title: 100-days-cyber-security
-last-update: 09.01.25
+last-update: 11.01.25
 description: a repository for storing & using methods and tools of hackers and cybersecurity specialists
 tags: attks, cyber-securiry, ethical hacking
 info: in development
