@@ -30,4 +30,5 @@ description: gaining access to the victim's computer
 
 * ![simple botnet](https://github.com/hellcard/simple-botnet/tree/main) - this botnet implements a DDoS attck when this script is executed on several devices
 * ![multi-client bot server](https://github.com/hellcard/multi-client-bot-server/tree/main) - multi-client bot server with reverse shell 
-* ![SYN-scanner](https://github.com/hellcard/SYN-scanner) - SYN-scan tool in python 
+* ![SYN-scanner](https://github.com/hellcard/SYN-scanner) - SYN-scan tool in python
+* ![Xmas-scan detector](https://github.com/hellcard/xmas-scan-detector/tree/main) - Xmas-scan detector in python 
