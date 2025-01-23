@@ -15,3 +15,4 @@ info: in development
 * ![ArpSpoofing Attk](https://github.com/hellcard/cyber-security-introduction/tree/main/arp-spoofing-attck) - key points for performing an ARP-spoofing attack
 * ![Analysis of intercepted traffic](https://github.com/hellcard/100-days-cyber-security/tree/main/analysis-of-intercepted-traffic) - key points of analyzing intercepted traffic via wireshark & ​​tcpdump
 * ![TCP-shells and botnets](https://github.com/hellcard/100-days-cyber-security/tree/main/TCP-shells-and-botnets) - gaining access to a server or computer by using a reverse shell using a backdoor
+* ![cryptography](https://github.com/hellcard/100-days-cyber-security/tree/main/cryptography) - encryption and ransomware
