@@ -23,6 +23,7 @@ echo "Simple text" > simpletext.txt
 cat simpletext.txt # view file
 
 openssl enc -aes-256-ctr -pbkdf2 -e -a -in simpletext.txt -out res.txt
+
 # -aes-256-ctr - use use block cipher aes256ctr
 #  |-  aes - use the matching function
 #  |- 256 - block size
@@ -32,11 +33,17 @@ openssl enc -aes-256-ctr -pbkdf2 -e -a -in simpletext.txt -out res.txt
 # -a - converting binary data to BASE64 format for easier terminal output
 # -in - name of the file to be encrypted
 # -out - name of the file where to write the result
+
 # === after execution openssl will ask for a password, based on which encryption and decryption are generated ===
+
 cat res.txt # view results
+
 # === file decryption ===
-openssl enc -aes-256-ctr -pbkdf2 -d -a -in res.txt -out newres.txt 
+
+openssl enc -aes-256-ctr -pbkdf2 -d -a -in res.txt -out newres.txt
+
 # -d - decryption file
 # enter the password you previously entered to get the result
+
 cat newres.txt
 ```
