@@ -111,3 +111,8 @@ openssl pkeyutl -decrypt -inkey pairkeys.key -in bin64.bin -out res.txt
 # view result
 cat res.txt
 ```
+
+
+<h2 align="center">Extra:</h2>
+
+![ransomware](https://github.com/ghostface-cybersecurity/ransomware) - a simple ransomware program that encrypts just one file
